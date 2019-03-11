@@ -8,6 +8,6 @@ https://www.c-sharpcorner.com/article/s-des-or-simplified-data-encryption-standa
 
 Contact me on E-mail For Further Assistance : Eng.bahaa_ka@hotmail.com
 
-[a link](https://github.com/bahaa-ka/S-DES-CSharp-Implementation-By-KoN/blob/master/LICENSE)
+[# GNU General Public License v3.0](https://github.com/bahaa-ka/S-DES-CSharp-Implementation-By-KoN/blob/master/LICENSE)
 
-# GNU General Public License v3.0
+
