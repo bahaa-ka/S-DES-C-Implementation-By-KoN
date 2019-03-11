@@ -1,0 +1,18 @@
+C:\Users\KingOfNothing\documents\visual studio 2017\Projects\S-DES By KoN\S-DES By KoN\bin\Debug\S-DES By KoN.exe.config
+C:\Users\KingOfNothing\documents\visual studio 2017\Projects\S-DES By KoN\S-DES By KoN\bin\Debug\S-DES By KoN.exe
+C:\Users\KingOfNothing\documents\visual studio 2017\Projects\S-DES By KoN\S-DES By KoN\bin\Debug\S-DES By KoN.pdb
+C:\Users\KingOfNothing\documents\visual studio 2017\Projects\S-DES By KoN\S-DES By KoN\obj\Debug\S-DES By KoN.csprojResolveAssemblyReference.cache
+C:\Users\KingOfNothing\documents\visual studio 2017\Projects\S-DES By KoN\S-DES By KoN\obj\Debug\S_DES_By_KoN.Form1.resources
+C:\Users\KingOfNothing\documents\visual studio 2017\Projects\S-DES By KoN\S-DES By KoN\obj\Debug\S_DES_By_KoN.Properties.Resources.resources
+C:\Users\KingOfNothing\documents\visual studio 2017\Projects\S-DES By KoN\S-DES By KoN\obj\Debug\S-DES By KoN.csproj.GenerateResource.Cache
+C:\Users\KingOfNothing\documents\visual studio 2017\Projects\S-DES By KoN\S-DES By KoN\obj\Debug\S-DES By KoN.exe
+C:\Users\KingOfNothing\documents\visual studio 2017\Projects\S-DES By KoN\S-DES By KoN\obj\Debug\S-DES By KoN.pdb
+D:\UOK IT Engineering\Study Career\2018\Spring 2018\Information System Security\Project\S-DES By KoN\S-DES By KoN\bin\Debug\S-DES By KoN.exe.config
+D:\UOK IT Engineering\Study Career\2018\Spring 2018\Information System Security\Project\S-DES By KoN\S-DES By KoN\bin\Debug\S-DES By KoN.exe
+D:\UOK IT Engineering\Study Career\2018\Spring 2018\Information System Security\Project\S-DES By KoN\S-DES By KoN\bin\Debug\S-DES By KoN.pdb
+D:\UOK IT Engineering\Study Career\2018\Spring 2018\Information System Security\Project\S-DES By KoN\S-DES By KoN\obj\Debug\S-DES By KoN.csprojResolveAssemblyReference.cache
+D:\UOK IT Engineering\Study Career\2018\Spring 2018\Information System Security\Project\S-DES By KoN\S-DES By KoN\obj\Debug\S_DES_By_KoN.Form1.resources
+D:\UOK IT Engineering\Study Career\2018\Spring 2018\Information System Security\Project\S-DES By KoN\S-DES By KoN\obj\Debug\S_DES_By_KoN.Properties.Resources.resources
+D:\UOK IT Engineering\Study Career\2018\Spring 2018\Information System Security\Project\S-DES By KoN\S-DES By KoN\obj\Debug\S-DES By KoN.csproj.GenerateResource.Cache
+D:\UOK IT Engineering\Study Career\2018\Spring 2018\Information System Security\Project\S-DES By KoN\S-DES By KoN\obj\Debug\S-DES By KoN.exe
+D:\UOK IT Engineering\Study Career\2018\Spring 2018\Information System Security\Project\S-DES By KoN\S-DES By KoN\obj\Debug\S-DES By KoN.pdb
